@@ -28,6 +28,11 @@ aPackageInfo = [
 			:name = "stdlib",
 			:version = "1.0",
 			:providerusername = ""
+		],
+		[
+			:name = "ringzip",
+			:version = "1.0",
+			:providerusername = ""
 		]
 
 	],
